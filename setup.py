@@ -45,8 +45,8 @@ setup(
     keywords=[
     ],
     install_requires=[
-        # click
-        # blessings
+        'click==6.2',
+        'blessings==1.6',
     ],
     extras_require={
         'develop': [
